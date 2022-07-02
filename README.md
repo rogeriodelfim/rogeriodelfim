@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 * [Data Visualization]()
 * [WebScrapin]()
 * [TextMining]()
+* [Competições]()
 * [Diversos]()
 
 
