@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 * [Data Visualization]()
 * [WebScrapin]()
 * [TextMining]()
-* [Competições]()
+* [Competições](https://github.com/rogeriodelfim/Competicoes)
 * [Diversos]()
 
 
